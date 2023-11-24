@@ -7,3 +7,5 @@
 [P. Oxy. 82 5299](./resource-page/P-Oxy-LXXXII-5299.html)
 
 [P. Mich. 3 143](./resource-page/P-Mich-3-143.html)
+
+[Back](./index.html)

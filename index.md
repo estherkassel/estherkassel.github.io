@@ -2,6 +2,6 @@
 layout: default
 ---
 
-[Link to Map](./map-page.html)
+[Link to Map](./map.html)
 
 [Link to Resources](./resources.html)

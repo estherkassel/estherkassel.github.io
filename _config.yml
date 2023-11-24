@@ -1,0 +1,23 @@
+courseName: Digital Humanities for the Ancient World Final Project
+
+subtitle: DHAW2023 Final Project
+
+baseurl: /DHAW2023FinalProject
+
+# url where the required reading is available to download
+docsUrl: "" 
+
+# url where the student's grading info is kept
+gradingUrl: "" 
+
+
+# change only if you know what you are doing
+collections:
+  syllabus:
+    output: true
+defaults:
+  - scope:
+      path: ""
+      type: syllabus
+    values:
+      layout: unit

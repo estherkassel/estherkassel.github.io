@@ -8,4 +8,6 @@
 
 [P. Mich. 3 143](./resource-page/P-Mich-3-143.html)
 
+[P. 17469](./resource-page/P-17469.html)
+
 [Back](./index.html)

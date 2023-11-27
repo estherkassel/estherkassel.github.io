@@ -37,4 +37,4 @@ Irregular uncial letters, no iota subscript, slight spelling errors
 
 Unlabeled diagram
 
-[Back](./resources.html)
+[Back](./resource-page.html)

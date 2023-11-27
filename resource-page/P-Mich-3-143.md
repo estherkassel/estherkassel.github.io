@@ -1,4 +1,4 @@
-## (P. Mich. 3 143): 
+## _Paprus - University of Michigan 3 143_(P. Mich. 3 143): An Excerpt of Definitions from Euclid
 
 ![P. Mich. 3 143](https://quod.lib.umich.edu/cgi/i/image/api/image/apis/X-3163/925R.TIF/full/medium/0/native.jpg)
 

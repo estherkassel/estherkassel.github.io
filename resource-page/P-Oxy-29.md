@@ -37,4 +37,4 @@ Unlabeled diagram
 
 [Read More](https://personal.math.ubc.ca/~cass/Euclid/papyrus/papyrus.html)
 
-[Back](./resource-page.html)
+[Back](./resources.html)

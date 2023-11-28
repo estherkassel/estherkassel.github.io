@@ -12,4 +12,4 @@
 
 [Read More](https://figshare.com/articles/online_resource/P_Oxy_LXXXII_5299_Euclid_Elements_1_4_Diagram_8_11_14_25_without_Proofs_/21186181/2)
 
-[Back](./resource-page.html)
+[Back](./resources.html)

@@ -33,11 +33,7 @@ Proposition 5 of Book II of the Elements
 
 Irregular uncial letters, no iota subscript, slight spelling errors
 
-Unlabeled diagram
-
-<html>
-    <img src="https://web.calstatela.edu/faculty/hmendel/Ancient%20Mathematics/Euclid/Euclid%20II/Euclid%202.5/El.II.5.diag.3.jpg" width="400" height="240" name="figure1" align="left" alt="Diagrams for book 2 proposition 5, following the display, construction, and demonstration">
-</html>
+[Unlabeled diagram](./diagramprop5.html)
 
 [Read More](https://personal.math.ubc.ca/~cass/Euclid/papyrus/papyrus.html)
 

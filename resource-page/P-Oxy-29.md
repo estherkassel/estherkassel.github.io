@@ -1,4 +1,4 @@
-## _Papyrus Oxyrhynchus 29_ (P. Oxy. 29): Proposition 5 from Book II of Euclid's Elements
+## _Papyrus Oxyrhynchus 29 (P. Oxy. 29)_: Proposition 5 from Book II of Euclid's Elements
 
 ![P.Oxy.29](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/P._Oxy._I_29.jpg/600px-P._Oxy._I_29.jpg)
 

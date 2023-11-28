@@ -37,4 +37,4 @@ Irregular uncial letters, no iota subscript, slight spelling errors
 
 [Read More](https://personal.math.ubc.ca/~cass/Euclid/papyrus/papyrus.html)
 
-[Back](/resources.html)
+[Back](../resources.html)

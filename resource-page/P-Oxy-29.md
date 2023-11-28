@@ -35,6 +35,27 @@ Irregular uncial letters, no iota subscript, slight spelling errors
 
 [Unlabeled diagram](https://web.calstatela.edu/faculty/hmendel/Ancient%20Mathematics/Euclid/Euclid%20II/Euclid%202.5/Euclid.2.5.html#:~:text=6-,Prop.,square%20from%20the%20half%20line.&text=I%20say%20that%20the%20rectangle,to%20the%20square%20from%20GB.)
 
+<html> 
+<head> 
+<script> 
+
+function changeImage()
+{
+var img = document.getElementById("image");
+img.src="images/test2";
+return false;
+}
+
+</script>
+
+</head>
+<body>
+<img id="image" src="images/test" />
+<br><br><br>
+<button id="clickme" onclick="changeImage();">Click to change image!</button>
+</body>
+</html>
+
 [Read More](https://personal.math.ubc.ca/~cass/Euclid/papyrus/papyrus.html)
 
 [Back](./resources.html)

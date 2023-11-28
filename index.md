@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<iframe src="https://tsolakisgeo.github.io/DHAW2023peripleo/" style="width:100%; height:50vw;"></iframe>
+
 [Resources](./resources.html)
 
 [Personal Statement](./personal-statement.html)

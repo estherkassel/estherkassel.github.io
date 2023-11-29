@@ -1,4 +1,4 @@
-## _Papyrus Oxyrhynchu_ 29 (_P. Oxy._ 29): Proposition 5 from Book II of Euclid's Elements
+## _Papyrus Oxyrhynchus_ 29 (_P. Oxy._ 29): Proposition 5 from Book II of Euclid's Elements
 
 ![P.Oxy.29](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/P._Oxy._I_29.jpg/600px-P._Oxy._I_29.jpg)
 
@@ -33,9 +33,13 @@ Proposition 5 of Book II of the Elements
 
 Irregular uncial letters, no iota subscript, slight spelling errors
 
+
+
 ![DiagramGif](https://i.makeagif.com/media/11-29-2023/pwpD5k.gif)
 
-[Unlabeled diagram](https://web.calstatela.edu/faculty/hmendel/Ancient%20Mathematics/Euclid/Euclid%20II/Euclid%202.5/Euclid.2.5.html#:~:text=6-,Prop.,square%20from%20the%20half%20line.&text=I%20say%20that%20the%20rectangle,to%20the%20square%20from%20GB.)
+[Image Source](https://web.calstatela.edu/faculty/hmendel/Ancient%20Mathematics/Euclid/Euclid%20II/Euclid%202.5/Euclid.2.5.html#:~:text=6-,Prop.,square%20from%20the%20half%20line.&text=I%20say%20that%20the%20rectangle,to%20the%20square%20from%20GB.)
+
+
 
 [Read More](https://personal.math.ubc.ca/~cass/Euclid/papyrus/papyrus.html)
 

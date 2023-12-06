@@ -11,7 +11,7 @@
 Egypt
 
 ### Text
-Σημεῖόν ἐστιν, οὗ μόρον
+Σημεῖόν ἐστιν, οὗ μόρον [* μέρος]
     
 οὐθέν. Γραμμὴ δὲ μῆκος̣
     
@@ -19,63 +19,101 @@ Egypt
     
 τα σημεῖα. Εὐθεῖα γραμμή
     
-ἐστι{ς}, ἥτις ἐξ ἴσου τοῖς ἐ-    5
+ἐστι{ς} [* ἐστιν], ἥτις ἐξ ἴσου τοῖς ἐ-    
 
-φ’ ἑαυτῆς σημείοις κε͂ται.
+φ’ ἑαυτῆς σημείοις κε͂ται [* κεῖται].
     
-Ἐπιφάνια ἐστὶ̣, ὃ̣ μ̣ῆ̣κ̣[ο]ς̣ κα[ὶ]
+Ἐπιφάνια [* Ἐπιφάνεια δὲ] ἐστὶ̣ [* ἐστιν], ὃ̣ μ̣ῆ̣κ̣[ο]ς̣ κα[ὶ]
     
 πλάτος μόνον ἔχει. Ἐπι-
     
-φανείας δὲ πέρατα γραμαί.
+φανείας δὲ πέρατα γραμαί [* γραμμαί].
 
-Ἐπίπεδος ἐπιφάνιά ἐστιν,        10
+Ἐπίπεδος ἐπιφάνιά [* ἐπιφάνειά] ἐστιν,        
   
 ἥτις ἐξ ἴσου τα̣ῖ̣ς ἐφ’ ἑαυ
     
-εὐθεαις κεται-
+εὐθεαις [* εὐθείαις] κεται [* κεῖται]-
     
 τῆς. Ἐπίπεδος δὲ γωνί-
     
 α ἐστὶν ἐν ἐπιπέδῳ δύ-
 
-ο γραμμῶν ἁπτομένων             15
+ο γραμμῶν ἁπτομένων             
     
 ἀλλήλων καὶ μὴ ἐπ’ εὐ-
     
-θείας κιμένων ἡ πρὸς
+θείας κιμένων [* κειμένων] ἡ πρὸς [* ἡ omitted]
     
-ἀλλήλας τῶν γραμῶν
+ἀλλήλας τῶν γραμῶν [* γραμμῶν]
     
 κλίσις. Ὅταν δὲ αἱ ἔκου-
 
-σαι γραμμαὶ εὐθεῖαι            20
+σαι [* περιέχουσαι τὴν γωνίαν] γραμμαὶ εὐθεῖαι            
     
-ὦσι, εὐθ̣ύγρ̣αμος̣ ἡ γωνί-
+ὦσι [* ὦσιν], εὐθ̣ύγρ̣αμος̣ [* εὐθύγραμμος] ἡ γωνί-
     
-α καλεῖσθαι̣. Ὅταν δὲ εὐ-
+α καλεῖσθαι̣ [* καλεῖται ἡ γωνία]. Ὅταν δὲ εὐ-
     
 θεῖα ἐπ’ εὐθεῖαν στ̣αθεῖ-
     
-σα{ν} τὰς ἐφεξος γω-
+σα{ν} τὰς ἐφεξος [* ἐφεξῆς] γω-
 
-νίας ἴσας ἀλλήλας̣ ποι-        25
+νίας ἴσας ἀλλήλας̣ [* ἀλλήλαις] ποι-        
     
 ῇ, ὀρθὴ ἑκατέρα τῶν ἴ-
     
 σων γωνιῶν ἐστι,
 
-καὶ ἡ ἐφεστηκυῖα γραμή κάθετος καλεῖται 
+καὶ ἡ ἐφεστηκυῖα γραμή [* εὐθεῖα] κάθετος καλεῖται [* (cont.) ἐφ᾽ ἣν ἐφέστηκεν].
 
 ### Translation
 
+A point is that which has no part.
 
+A line is a breadthless length.
+
+The ends of a line are points.
+
+A straight line is a line which 
+
+lies evenly with the points on itself.
+
+A surface is that which has length and breadth only.
+
+The edges of a surface are lines.
+
+A plane surface is a surface which lies 
+
+evenly with the straight lines on itself.
+
+A plane angle is the inclination to one another of 
+
+two lines in a plane which meet one another 
+
+and do not lie in a straight line.
+
+And when the lines containing the angle are straight, 
+
+the angle is called rectilinear.
+
+When a straight line standing on a straight line makes 
+
+the adjacent angles equal to one another, each of the 
+
+equal angles is right, and the straight line 
+
+standing on the other is called a 
+
+perpendicular to that on which it stands.
+
+[Source](http://aleph0.clarku.edu/~djoyce/java/elements/bookI/bookI.html#defs)
 
 ### Notes
 
 5.5 x 19.2 cm
 
-
+* word comparison to the original text, translation is of the original text
 
 [Read More](https://papyri.info/dclp/59769?rows=3&start=10&fl=id,title&fq=collection:dclp&fq=(ddbdp_series:p.mich+OR+hgv_series:p.mich+OR+dclp_series:p.mich)&fq=(ddbdp_volume:3+OR+hgv_volume:3+OR+dclp_volume:3)&sort=series+asc,volume+asc,item+asc&p=11&t=17)
 

@@ -134,13 +134,19 @@ _Column II; last four diagrams_
 
 I.22
 
-
+![Diagram](../images/book1prop22.gif)
 
 I.23
 
+![Diagram](../images/book1prop23.gif)
+
 I.24
 
+![Diagram](../images/book1prop24.gif)
+
 I.25
+
+![Diagram](../images/book1prop25.gif)
 
 [Image Source](https://web.calstatela.edu/faculty/hmendel/Ancient%20Mathematics/Euclid/Euclid%20I/Euclid.1.Intro.html)
 
